@@ -1,0 +1,33 @@
+html {
+  font-size: 10px;
+  scroll-behavior: smooth;
+}
+
+#main {
+  width: 100%;
+}
+
+.section {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 3rem;
+}
+
+.section1 {
+  background-color: rgb(250, 188, 72);
+}
+
+.section2 {
+  background-color: rgb(153, 77, 224);
+}
+
+.section3 {
+  background-color: greenyellow;
+}
+
+.section4 {
+  background-color: rgb(231, 99, 99);
+}
